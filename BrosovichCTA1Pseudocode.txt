@@ -1,0 +1,7 @@
+Start Fictional Person 
+
+Declare Variables
+	firstname, lastname, streetAddress, city, zipcode
+Display Variables
+	firstname, lastname, streetAddress, city, zipcode with unique introductory statements
+End Fictional Program
